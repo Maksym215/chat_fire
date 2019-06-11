@@ -1,2 +1,2 @@
 # chat_fire
-Chat React Native app using Firebase
+Chat app using Firebase & React Native
